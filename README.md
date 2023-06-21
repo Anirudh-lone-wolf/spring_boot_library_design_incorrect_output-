@@ -1,2 +1,2 @@
 # spring_boot_library_design_incorrect_output-
-the project is not working as desired. 
+in samplespringboot, the project is working fine, but /info endpoint is not exposed. omly health endpoint is there,
